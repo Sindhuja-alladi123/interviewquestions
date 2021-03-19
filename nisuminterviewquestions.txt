@@ -1,0 +1,33 @@
+1.what is Spring boot actuator
+2.spring boot features
+3.Soap v/s RestApi
+4.difference between hashmap and tree map
+5.internal working of hash map
+6.diiferences between array and arraylist
+7.differences between arraylist and linked list
+8.what are the datastructures you know
+9.what is binary search algorithm
+10.diff between jdbc and hibernate
+11.Hibernate and jpa annotations
+12.what is springbootapplication annotation does?
+13.how you can exclude one package from componentscan
+14.spring security
+15.spring profiles
+16.what is failfast and failsafe
+17.what is CTIS
+18.what version control you use to deploy ur project
+19.git commands
+20.how you build your project
+21.what build tool u use in your project
+22.palindrom check of a given number program
+23.diff list and set
+24.diff iterator and enumeration
+25.java 8 features
+26.what is volatile keyword
+27.serialization
+28.transient key word
+29.spring scopes
+30.print duplicates in array
+31.parallel sream and sream difference
+
+
